@@ -10,7 +10,7 @@
         "fill":"#FF0000",
         "LAD13CD":"E09000001",
         "LAD13CDO":"00AA",
-        "LAD13NM":"Bahçeşehir 2. Kısım Mahallesi",
+        "LAD13NM":"BAHCESEHIR 2.KISIM",
         "LAD13NMW":null
       },
       "geometry": {
@@ -955,7 +955,7 @@
       "properties": {
         "LAD13CD":"E09000002",
         "LAD13CDO":"00AB",
-        "LAD13NM":"Bahçeşehir 1. Kısım Mahallesi",
+        "LAD13NM":"BAHCESEHIR 1.KISIM",
         "LAD13NMW":null
       },
       "geometry": {
@@ -2040,7 +2040,7 @@
       "properties": {
         "LAD13CD":"E09000003",
         "LAD13CDO":"00AC",
-        "LAD13NM":"Şahintepe Mahallesi",
+        "LAD13NM":"ŞAHİNTEPE",
         "LAD13NMW":null
       },
       "geometry": {
@@ -3381,7 +3381,7 @@
       "properties": {
         "LAD13CD":"E09000004",
         "LAD13CDO":"00AD",
-        "LAD13NM":"Altınşehir Mahallesi",
+        "LAD13NM":"ALTINŞEHİR",
         "LAD13NMW":null
       },
       "geometry": {
@@ -3674,7 +3674,7 @@
       "properties": {
         "LAD13CD":"E09000005",
         "LAD13CDO":"00AE",
-        "LAD13NM":"Güvercintepe Mahallesi",
+        "LAD13NM":"GÜVERCİNTEPE",
         "LAD13NMW":null
       },
       "geometry": {
@@ -4663,7 +4663,7 @@
       "properties": {
         "LAD13CD":"E09000006",
         "LAD13CDO":"00AF",
-        "LAD13NM":"Kayabaşı Mahallesi",
+        "LAD13NM":"KAYABAŞI",
         "LAD13NMW":null
       },
       "geometry": {
@@ -6112,7 +6112,7 @@
       "properties": {
         "LAD13CD":"E09000007",
         "LAD13CDO":"00AG",
-        "LAD13NM":"Şamlar Mahallesi",
+        "LAD13NM":"ŞAMLAR",
         "LAD13NMW":null
       },
       "geometry": {
@@ -7401,7 +7401,7 @@
       "properties": {
         "LAD13CD":"E09000008",
         "LAD13CDO":"00AH",
-        "LAD13NM":"Ziya Gökalp Mahallesi",
+        "LAD13NM":"ZİYA GÖKALP",
         "LAD13NMW":null
       },
       "geometry": {
@@ -8226,7 +8226,7 @@
       "properties": {
         "LAD13CD":"E09000009",
         "LAD13CDO":"00AJ",
-        "LAD13NM":"Başakşehir Mahallesi",
+        "LAD13NM":"BAŞAKŞEHİR",
         "LAD13NMW":null,
         "alt_name": "Başakşehir 2. Etap Mahallesi"
       },
@@ -8608,7 +8608,7 @@
       "properties": {
         "LAD13CD":"E09000010",
         "LAD13CDO":"00AK",
-        "LAD13NM":"Başak Mahallesi",
+        "LAD13NM":"BAŞAK",
         "LAD13NMW":null,
         "alt_name": "Başakşehir 5. Etap Mahallesi"
       },
