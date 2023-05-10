@@ -7,13 +7,11 @@
     {
       "type": "Feature",
       "properties": {
+        "fill":"#FF0000",
         "LAD13CD":"E09000001",
-        "LAD13CD0":"00AA",
+        "LAD13CDO":"00AA",
         "LAD13NM":"Bahçeşehir 2. Kısım Mahallesi",
-        "LAD13NMW":null,
-        "boundary": "administrative",
-        "name": "Bahçeşehir 2. Kısım Mahallesi",
-        "type": "boundary"
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -950,16 +948,15 @@
           ]
         ]
       },
-      "id": "relation/9475457"
+      "id": "E09000001"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9475458",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Bahçeşehir 1. Kısım Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000002",
+        "LAD13CDO":"00AB",
+        "LAD13NM":"Bahçeşehir 1. Kısım Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -2036,16 +2033,15 @@
           ]
         ]
       },
-      "id": "relation/9475458"
+      "id": "E09000002"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9475448",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Şahintepe Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000003",
+        "LAD13CDO":"00AC",
+        "LAD13NM":"Şahintepe Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -3378,16 +3374,15 @@
           ]
         ]
       },
-      "id": "relation/9475448"
+      "id": "E09000003"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9475439",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Altınşehir Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000004",
+        "LAD13CDO":"00AD",
+        "LAD13NM":"Altınşehir Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -3672,16 +3667,15 @@
           ]
         ]
       },
-      "id": "relation/9475439"
+      "id": "E09000004"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9461576",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Güvercintepe Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000005",
+        "LAD13CDO":"00AE",
+        "LAD13NM":"Güvercintepe Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -4662,16 +4656,15 @@
           ]
         ]
       },
-      "id": "relation/9461576"
+      "id": "E09000005"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9475447",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Kayabaşı Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000006",
+        "LAD13CDO":"00AF",
+        "LAD13NM":"Kayabaşı Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -6112,17 +6105,15 @@
           ]
         ]
       },
-      "id": "relation/9475447"
+      "id": "E09000006"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9446484",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Şamlar Mahallesi",
-        "postal_code": "34494",
-        "type": "boundary"
+        "LAD13CD":"E09000007",
+        "LAD13CDO":"00AG",
+        "LAD13NM":"Şamlar Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -7403,16 +7394,15 @@
           ]
         ]
       },
-      "id": "relation/9446484"
+      "id": "E09000007"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9461512",
-        "admin_level": "8",
-        "boundary": "administrative",
-        "name": "Ziya Gökalp Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000008",
+        "LAD13CDO":"00AH",
+        "LAD13NM":"Ziya Gökalp Mahallesi",
+        "LAD13NMW":null
       },
       "geometry": {
         "type": "Polygon",
@@ -8229,18 +8219,16 @@
           ]
         ]
       },
-      "id": "relation/9461512"
+      "id": "E09000008"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9461575",
-        "admin_level": "8",
-        "alt_name": "Başakşehir 2. Etap Mahallesi",
-        "boundary": "administrative",
-        "name": "Başakşehir Mahallesi",
-        "postal_code": "34480",
-        "type": "boundary"
+        "LAD13CD":"E09000009",
+        "LAD13CDO":"00AJ",
+        "LAD13NM":"Başakşehir Mahallesi",
+        "LAD13NMW":null,
+        "alt_name": "Başakşehir 2. Etap Mahallesi"
       },
       "geometry": {
         "type": "Polygon",
@@ -8613,18 +8601,16 @@
           ]
         ]
       },
-      "id": "relation/9461575"
+      "id": "E09000009"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9461411",
-        "admin_level": "8",
-        "alt_name": "Başakşehir 5. Etap Mahallesi",
-        "boundary": "administrative",
-        "name": "Başak Mahallesi",
-        "postal_code": "34480",
-        "type": "boundary"
+        "LAD13CD":"E09000010",
+        "LAD13CDO":"00AK",
+        "LAD13NM":"Başak Mahallesi",
+        "LAD13NMW":null,
+        "alt_name": "Başakşehir 5. Etap Mahallesi"
       },
       "geometry": {
         "type": "Polygon",
@@ -9489,18 +9475,16 @@
           ]
         ]
       },
-      "id": "relation/9461411"
+      "id": "E09000010"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/9461611",
-        "admin_level": "8",
-        "alt_name": "Organize Sanayi Bölgesi Mahallesi",
-        "boundary": "administrative",
-        "name": "İkitelli OSB Mahallesi",
-        "note": "In some map it is not distinguished from Ziya Gökalp Mahallesi",
-        "type": "boundary"
+        "LAD13CD":"E09000011",
+        "LAD13CDO":"00AL",
+        "LAD13NM":"İkitelli OSB Mahallesi",
+        "LAD13NMW":null,
+        "alt_name": "Organize Sanayi Bölgesi Mahallesi"
       },
       "geometry": {
         "type": "Polygon",
@@ -10165,7 +10149,7 @@
           ]
         ]
       },
-      "id": "relation/9461611"
+      "id": "E09000011"
     }
   ]
 }
