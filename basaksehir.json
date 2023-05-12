@@ -939,7 +939,6 @@
         ]
       },
       "properties": {
-        "fill":"#FF0000",
         "LAD13CD":"E09000001",
         "LAD13CDO":"00AA",
         "LAD13NM":"BAHÇEŞEHİR 2.KISIM",
@@ -10142,7 +10141,7 @@
       "properties": {
         "LAD13CD":"E09000011",
         "LAD13CDO":"00AL",
-        "LAD13NM":"İkitelli OSB Mahallesi",
+        "LAD13NM":"İKİTELLİ OSB Mahallesi",
         "LAD13NMW":null,
         "alt_name": "Organize Sanayi Bölgesi Mahallesi"
       },
